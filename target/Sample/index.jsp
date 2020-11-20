@@ -3,6 +3,6 @@
 <title>Welcome to ...</title>
 </head>
 <body>
-<h2>Welcome to Jenkins World!</h2>
+<h2>Welcome to JENKINS World!</h2>
 </body>
 </html>
